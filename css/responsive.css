@@ -43,4 +43,20 @@
     .wraper-div {
       width: 269px;
     }
+    .big-h1 {
+        font-size: 45px;
+    }
+    .small-h3 {
+        font-size: 10px;
+        margin-left: 56px;
+    }
+  }
+  @media (max-width: 325px) {
+   
+    .big-h1 {
+        font-size: 35px;
+    }
+    .small-h3 {
+        margin-left: 23px;
+    }
   }

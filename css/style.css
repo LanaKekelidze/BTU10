@@ -37,6 +37,19 @@ header {
     background-image: url(../img/banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .big-h1 {
+      font-size: 75px;
+      color: #FFFFFF;
+  }
+  .small-h3 {
+      font-size: 18px;
+      color: #FFFFFF;
+      margin-left: 98px;
+    margin-top: 37px;
   }
   /* seqtion-two */
   
