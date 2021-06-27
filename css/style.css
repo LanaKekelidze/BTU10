@@ -1,0 +1,132 @@
+/* header */
+header {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 20px 95px 20px 95px;
+  }
+  ul {
+    width: 502px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  a {
+    font-size: 15px;
+    color: #303134;
+  }
+  .fa-bars {
+    display: none;
+  }
+  /* seqtion-one */
+  .bg-image {
+    width: 100%;
+    height: 650px;
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  /* seqtion-two */
+  
+  .discover {
+    width: 242px;
+    height: 240px;
+  }
+  .one-h3 {
+    font-size: 16px;
+    color: #8d8d8d;
+    margin-bottom: 5px;
+  }
+  .one-h1 {
+    font-size: 26px;
+    color: #1a1a1b;
+    margin-bottom: 40px;
+  }
+  .parag {
+    font-size: 16px;
+    color: #8d8d8d;
+  }
+  .image {
+    width: 269px;
+    height: 327px;
+  }
+  .image-1 {
+    background-image: url(../img/plain.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .image-2 {
+    background-image: url(../img/pull.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .image-3 {
+    background-image: url(../img/beach.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .image-4 {
+    background-image: url(../img/ship.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .image-5 {
+    background-image: url(../img/firecamp.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .image-6 {
+    background-image: url(../img/compuer.jpg);
+    background-repeat: no-repeat;
+    padding-top: 200px;
+  }
+  .bottom {
+    margin-bottom: 6px;
+    font-size: 18px;
+    color: #1a1a1b;
+  }
+  .size {
+    font-size: 16px;
+    color: #8d8d8d;
+  }
+  .wrap {
+    max-width: 871px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .wraper-div {
+    width: 1172px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .seqtion-2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 80px;
+  }
